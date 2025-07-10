@@ -3,7 +3,6 @@ Hi there, I'm jamsamjam!
 
 I'm currently studying computer science at EPFL.  
 I enjoy building things, solving problems, and learning new technologies.  
-These days I'm passionate about app development... coming soon 👀
 
 Feel free to reach out to me via:
 
